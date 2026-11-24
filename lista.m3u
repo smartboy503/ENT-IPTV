@@ -1,0 +1,35 @@
+
+#EXTM3U url-tvg="https://api.40mediagroup.com/xmltv/programacion/todos/xmltv.xml"
+
+#EXTINF:-1 tvg-name="ENT Channel" group-title="ENT",ENT Channel
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="ENT Family" group-title="ENT",ENT Family
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="ENT Movies" group-title="ENT",ENT Movies
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="ENT Drama" group-title="ENT",ENT Drama
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="ENT Classics" group-title="ENT",ENT Classics
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="ENT Life" group-title="ENT",ENT Life
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="ENT Extreme" group-title="ENT",ENT Extreme
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="ENT Comedy" group-title="ENT",ENT Comedy
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="Totalmusic" group-title="Totalmusic",Totalmusic
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="Totalmusic 80s" group-title="Totalmusic",Totalmusic 80s
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="Totalmusic 2000s" group-title="Totalmusic",Totalmusic 2000s
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
